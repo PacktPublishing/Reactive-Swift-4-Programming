@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftLoginView {
+  umbrella header "Pods-RxSwiftLoginView-umbrella.h"
+
+  export *
+  module * { export * }
+}
