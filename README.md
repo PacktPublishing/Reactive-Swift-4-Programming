@@ -28,6 +28,3 @@ We assume that you, the reader of this book, already have intermediate knowledge
 * [Swift 4 Protocol-Oriented Programming - Third Edition](https://www.packtpub.com/web-development/swift-protocol-oriented-programming-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788470032)
 
 * [Full Stack Swift 4](https://www.packtpub.com/web-development/full-stack-swift-4?utm_source=github&utm_medium=repository&utm_campaign=9781788625241)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
